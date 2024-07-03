@@ -51,7 +51,7 @@ I've designed and made a wether station based on ESP32. Every part of it is suit
 The project was made with my dad, [here](https://stacja.fun/) you can check out current wether on a website made by him.
 I don't have a repo with the code and 3d models.
 
-#### Hackathons and Others (JS, TS, React JS, Python)
+#### Hackathons and Others (React JS, NEXT JS, Python)
 
 I've taken part in those Hackathons and competitions:
 
