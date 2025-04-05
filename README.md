@@ -17,7 +17,7 @@ In my free time I like to:
 
 ### :hammer_and_wrench: What I did over the years:
 
-Below you can read a short description of projects I've made over the years is roughly chronological order.
+Below you can read a short description of projects I've finished over the years in roughly chronological order.
 
 #### Electronic Scoreboard (C, Eagle)
 
