@@ -62,11 +62,20 @@ I've taken part in those Hackathons and competitions:
 
 #### KN Integra Smashbot (C, CAD)
 
-I am the coordinator of a Smashbot team, that is part of KN Integra. We have made a 3d printable battlebot. It is currently ready for battle, we are waiting for competitions to come.
+I am the coordinator of "Smashbot" team, which is part of KN Integra Science club. We have made a 3d printable, remotely controlled battlebot based on nordic nrf52840 dongle. We took part in nationwide robotic festival Robocomp, where we took third place. We also fought at XChallenge, another nationwide competition, this time we unfortunately lost our first battle.
+We are planning to improve our design and build an enchanted version of the robot for future contest.
+
+#### KN Integra Wheel-E
+
+I am the coordinator of "Wheel-E" project, we managed to secure a grant to build a balancing robot, it is currently in the design stage. I is going to be remotely controlled via Bluetooth. It will use 5 STM32 microcontrollers, 4 will drive the motors, one will be responsible for balancing.
 
 #### Fractal Generator (C#, HLSL)
 
 I've made a fractal generator using Unity and Shaders written in HLSL. I've implemented an arbitrary precision number system, so that It is possible to do extremely deep zooms. I've made a lot of performance enhancements as well as implement a lot of ways to visualize the fractal. This Is one of my biggest projects so far, I've described in more details in its repo.
+
+#### Portfolio Website
+
+I made a website with Three.Js to show my projects in an interesting interactive way, you can view it in [here](https://maciuga.vercel.app/?lang=en). It is designed to be viewed on desktop. 
 
 ### :fire: Check Out My Stats :
 
